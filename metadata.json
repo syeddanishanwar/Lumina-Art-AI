@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI - Generative Art Playground",
+  "description": "An interactive generative art engine that uses Gemini to transform text prompts into complex physics-based visual systems.",
+  "requestFramePermissions": []
+}
